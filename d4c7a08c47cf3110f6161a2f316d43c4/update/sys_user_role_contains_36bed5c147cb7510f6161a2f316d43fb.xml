@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="task_editor" name="task_editor">0956f6390a0a0bc50064623d5d51c556</contains>
+        <role display_value="x_1256679_gest_o_0.analistas_role" name="x_1256679_gest_o_0.analistas_role">afa595c5478b7510f6161a2f316d433e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 20:52:42</sys_created_on>
+        <sys_id>36bed5c147cb7510f6161a2f316d43fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_editor.x_1256679_gest_o_0.analistas_role</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1256679_gest_o_0">d4c7a08c47cf3110f6161a2f316d43c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d4c7a08c47cf3110f6161a2f316d43c4</sys_scope>
+        <sys_update_name>sys_user_role_contains_36bed5c147cb7510f6161a2f316d43fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 20:52:42</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

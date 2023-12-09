@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 20:13:47</sys_created_on>
+        <sys_id>78d559c5478b7510f6161a2f316d43e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1256679_gest_o_0_pedidos.x_1256679_gest_o_0.supervisores_role</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1256679_gest_o_0">d4c7a08c47cf3110f6161a2f316d43c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d4c7a08c47cf3110f6161a2f316d43c4</sys_scope>
+        <sys_security_acl display_value="x_1256679_gest_o_0_pedidos">fcd559c5478b7510f6161a2f316d43e3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78d559c5478b7510f6161a2f316d43e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 20:13:47</sys_updated_on>
+        <sys_user_role display_value="x_1256679_gest_o_0.supervisores_role" name="x_1256679_gest_o_0.supervisores_role">a8d559c5478b7510f6161a2f316d4399</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d4c7a08c47cf3110f6161a2f316d43c4</application>
+        <file_path/>
+        <instance_id>c7feb270dbcaf918199b1729139619e1</instance_id>
+        <instance_name>dev191120</instance_name>
+        <name>sys_security_acl_role_78d559c5478b7510f6161a2f316d43e6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 20:13:47</sys_created_on><sys_id>78d559c5478b7510f6161a2f316d43e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1256679_gest_o_0_pedidos.x_1256679_gest_o_0.supervisores_role</sys_name><sys_package display_value="Gestão de Inventário" source="x_1256679_gest_o_0">d4c7a08c47cf3110f6161a2f316d43c4</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">d4c7a08c47cf3110f6161a2f316d43c4</sys_scope><sys_security_acl display_value="x_1256679_gest_o_0_pedidos">fcd559c5478b7510f6161a2f316d43e3</sys_security_acl><sys_update_name>sys_security_acl_role_78d559c5478b7510f6161a2f316d43e6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 20:13:47</sys_updated_on><sys_user_role display_value="x_1256679_gest_o_0.supervisores_role" name="x_1256679_gest_o_0.supervisores_role">a8d559c5478b7510f6161a2f316d4399</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>451342868</payload_hash>
+        <record_name>x_1256679_gest_o_0_pedidos.x_1256679_gest_o_0.supervisores_role</record_name>
+        <reverted_from/>
+        <source>ce5dc258470bb110f6161a2f316d43de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 20:13:47</sys_created_on>
+        <sys_id>fcd559c5478b7510f6161a2f316d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5036f3330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 20:13:47</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>34d559c5518b7510e38bebb8e05080e8</update_guid>
+        <update_guid_history>34d559c5518b7510e38bebb8e05080e8:451342868</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1256679_gest_o_0_pedidos.x_1256679_gest_o_0.supervisores_role">6278dd89478b7510f6161a2f316d43d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 20:25:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4c161272fac049a0b8a10a85e5aa2100</sys_id>
+        <sys_metadata>78d559c5478b7510f6161a2f316d43e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1256679_gest_o_0_pedidos.x_1256679_gest_o_0.supervisores_role</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1256679_gest_o_0">d4c7a08c47cf3110f6161a2f316d43c4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d4c7a08c47cf3110f6161a2f316d43c4</sys_scope>
+        <sys_scope_delete display_value="">45506a75598c439fa44a8943355f87a9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_78d559c5478b7510f6161a2f316d43e6</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_78d559c5478b7510f6161a2f316d43e6">fcd559c5478b7510f6161a2f316d43e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 20:25:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
